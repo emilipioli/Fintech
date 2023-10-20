@@ -1,0 +1,66 @@
+.tudo{
+    background-color: #2C2C2C;
+    height: 250px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo{
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+}
+
+.texto{
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.dom:hover{
+    transition: 1s;
+    background-color: #4e4e4e;
+    border-radius: 10px;
+}
+
+.seg:hover{
+    transition: 1s;
+    background-color: #4e4e4e;
+    border-radius: 10px;
+}
+
+.ter:hover{
+    transition: 1s;
+    background-color: #4e4e4e;
+    border-radius: 10px;
+}
+
+.qua:hover{
+    transition: 1s;
+    background-color: #4e4e4e;
+    border-radius: 10px;
+}
+
+.qui:hover{
+    transition: 1s;
+    background-color: #4e4e4e;
+    border-radius: 10px;
+}
+
+.fim{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.fim img{
+    width: 45px;
+    height: 45px;
+    border-radius: 11px;
+}
+
+
